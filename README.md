@@ -1,3 +1,8 @@
 # GachiSnake
-Final ver. for portfolio
-<h1>Hi im not gay</h1>
+<h1>Первая попытка создания игры на Unity</h1>
+<p>Это мой первый проект который был создан самостоятельно</p>
+<p>3D модели были сделаны собственноручно в MagicaVoxel</p>
+<img src= /GitImage/s1.png></img>
+<img src= /GitImage/s2.png></img>
+<img src= /GitImage/s3.png></img>
+<p>Сам проект не большой, но в нем я попытался реализовать: игра-механическую, графическу, звуковую и GUI часть</p>
